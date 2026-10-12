@@ -15,7 +15,7 @@ A interpreter & compiler for a programming language inspired by Rust's syntax, i
 
 ---
 
-### AI Gym <small>[:link:](https://github.com/marcelopenas/ai_gym)</small> <img src="assets/vid/ai_gym.gif" align="right" width="150" alt="AI Gym graph demo">
+### AI Gym <small>[:link:](https://github.com/Insper/ai_gym)</small> <img src="assets/vid/ai_gym.gif" align="right" width="150" alt="AI Gym graph demo">
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GraphViz](https://img.shields.io/badge/graphviz-%23F16529.svg?style=for-the-badge&logo=graphviz&logoColor=white)
