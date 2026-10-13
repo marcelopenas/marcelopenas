@@ -24,6 +24,14 @@ An educational toolkit for building and testing artificial intelligence agents. 
 
 ---
 
+### Hive <small>[:link:](https://github.com/marcelopenas/hive)</small> <img src="assets/img/hive.png" align="right" width="150" alt="Hive logo">
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+A lightweight AIO, automated Bash script designed to back up explicitly installed packages across system package managers, language runtimes, and developer environments, aggregating your environment’s footprint into a clean list, for system migrations, automated backups or version control.
+
+---
+
 ### BatchFetch <small>[:link:](https://github.com/marcelopenas/batchfetch)</small> <img src="assets/vid/batchfetch.gif" align="right" width="150" alt="BatchFetch demo">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
